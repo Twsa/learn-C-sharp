@@ -13,3 +13,4 @@ IDE:virtual studio professional 2017
 note:if语句分支决策，Console.WriteLine ,内部字符串重载
 2、运算符，表达式和语句
 3、迭代
+4、数组
