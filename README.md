@@ -5,9 +5,11 @@
 IDE:virtual studio professional 2017
 
 2017/06/04
-添加HelloWorld
-添加Veriables
+1、添加HelloWorld
+2、添加Veriables
 
 2017/06/05
-添加 Decisions
+1、添加 Decisions
 note:if语句分支决策，Console.WriteLine ,内部字符串重载
+2、运算符，表达式和语句
+
