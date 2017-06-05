@@ -17,3 +17,5 @@ note:if语句分支决策，Console.WriteLine ,内部字符串重载，变量输
 5、创建和调用简单的Helper方法  
     方法签名 ；方法重载，不同的类型的参数回寻找不同的的对应的方法
 void means doesn't return any value to you
+6、While迭代和文本文件的数据读取
+note:让vistual studio 知道Values.txt文件的路径，文本属性中always copy
