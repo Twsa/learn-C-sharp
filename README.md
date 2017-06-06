@@ -28,3 +28,7 @@ string.Format：替换字符到前面所指的地点，内置格式调整功能�
 note:StringBuilder:动态添加数组;substring,减少字符；replace,替换字符；Trim:去掉开头与结尾的字符
 2、DateTime
 note:计算我已经活过的日子
+3、创建简单类 SimpleClasses
+note:Class:Car;  prop创建类的公有变量
+insatnce:myNewCar;
+method:DeterminMarketValue
