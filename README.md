@@ -19,3 +19,10 @@ note:if语句分支决策，Console.WriteLine ,内部字符串重载，变量输
 void means doesn't return any value to you
 6、While迭代和文本文件的数据读取
 note:让vistual studio 知道Values.txt文件的路径，文本属性中always copy
+7、使用字符串
+note:转义字符；表示路径的字符串使用两个斜杠；字符串中间需要用双引号的引用；\n换行
+string.Format：替换字符到前面所指的地点，内置格式调整功能；自定义数据格式
+
+2017/06/06
+1、使用字符串
+note:StringBuilder:动态添加数组;substring,减少字符；replace,替换字符；Trim:去掉开头与结尾的字符
