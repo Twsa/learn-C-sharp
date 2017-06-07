@@ -32,3 +32,7 @@ note:计算我已经活过的日子
 note:Class:Car;  prop创建类的公有变量
 insatnce:myNewCar;
 method:DeterminMarketValue
+
+2017/06/07
+1、类和方法详细解析
+note:构造函数，static方法的原因，重载函数
