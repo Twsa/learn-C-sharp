@@ -5,7 +5,10 @@
 IDE:virtual studio professional 2017
 
 # 2017/06/04
+<<<<<<< HEAD
 
+=======
+>>>>>>> bd9c1671ee5c2515b98f90544b9c252bae55d337
 1、添加HelloWorld
 2、添加Veriables
 
