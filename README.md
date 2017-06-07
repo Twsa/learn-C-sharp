@@ -56,3 +56,15 @@ note:构造函数，static方法的原因，重载函数
 2、使用 .NET Framework 类库中的类和继承  UndestandingInheritance
 
 note:baseclass;
+virtual与override关键字的使用；
+
+virtual 改为abstract:这意味着您必须进行更改，从基类派生出来的方法必须被更改；抽象基类，作为原始基类
+
+创建抽象基类 Vehicle(交通工具)；
+
+使用sealed 关键字修饰类表示该类已经被封装，不能再被继承；
+
+
+
+
+
