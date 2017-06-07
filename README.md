@@ -4,7 +4,7 @@
 学习平台: Windows 
 IDE:virtual studio professional 2017
 
-2017/06/04
+#2017/06/04
 1、添加HelloWorld
 2、添加Veriables
 
