@@ -11,18 +11,34 @@ namespace ReadTextFileWhile
     {
         static void Main(string[] args)
         {
-            StreamReader myReader = new StreamReader("Values.txt");
-            string line = "";
 
-            while (line != null)
+            try
             {
-                line = myReader.ReadLine();
-                string myStr = line;
-                if (line != null)
-                    Console.WriteLine(myStr);
+                StreamReader myReader = new StreamReader("Values.txt");
+                string line = "";
+
+                while (line != null)
+                {
+                    line = myReader.ReadLine();
+                    string myStr = line;
+                    if (line != null)
+                        Console.WriteLine(myStr);
+                }
+                myReader.Close();
+            }
+            catch (DirectoryNotFoundException e)
+            {
+                Console.WriteLine("Could't find the file, Are you sure the DIRECTORY exists?");
+            }
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine("Couldn't find the file , Are you sure you're lookiing for the correct file?");
             }
 
-            myReader.Close();
+            catch (Exception e)
+            {
+                Console.WriteLine("Somthing didn't quite work correctly: {0}",e.Message);
+            }
             Console.ReadLine();
         }
     }

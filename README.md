@@ -76,6 +76,10 @@ note:使用 Tabor.dll文件并理解命名空间，获取html数据
 
 note:使用Enum.Parser匹配输入字符，是否忽略大小写
 
+3、适当处理异常
+Try Catch
+
+
 
 
 
