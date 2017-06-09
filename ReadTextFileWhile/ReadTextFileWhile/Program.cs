@@ -39,6 +39,11 @@ namespace ReadTextFileWhile
             {
                 Console.WriteLine("Somthing didn't quite work correctly: {0}",e.Message);
             }
+            finally
+            {
+                //Perform any cleanup to roll back the data or close connections
+                //to files,database,network,etc.
+            }
             Console.ReadLine();
         }
     }

@@ -1,4 +1,4 @@
-# learn C sharp
+·# learn C sharp
 
 学习 C#语言
 学习平台: Windows 
@@ -77,7 +77,15 @@ note:使用 Tabor.dll文件并理解命名空间，获取html数据
 note:使用Enum.Parser匹配输入字符，是否忽略大小写
 
 3、适当处理异常
-Try Catch
+note:Try Catch
+
+2017/06/09
+
+1、使用 LINQ 筛选和管理数据集合  LinQ to Object
+
+2、添加MyC-SharpTest
+Note:通过阅读C#编程指南进行C#编程练习，今天到达 StringBuilder,在StringFormat类中
+
 
 
 
