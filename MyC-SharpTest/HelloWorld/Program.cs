@@ -172,9 +172,20 @@ namespace HelloWorld
             */
 
             //四、字符串
-            StringFormat msg = new StringFormat();
+            //StringFormat msg = new StringFormat();
             //msg.ShowInfo();
-            msg.FormatString();
+            //msg.FormatString();
+
+            //五、使用StringBuilder 快速创建字符串
+            //TestStringBuilder stringBuilt = new TestStringBuilder();
+            //stringBuilt.StringBuilderTest();
+
+            //六、字符串、扩展方法和LINQ
+            //1、查询文本块
+            //1）、如何：对某个词在字符串中出现得次数进行计数（LINQ）(C#),
+            //演示如何使用LINQ进行简单的文本查询
+
+
         }
     }
 }

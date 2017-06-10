@@ -69,7 +69,7 @@ virtual 改为abstract:这意味着您必须进行更改，从基类派生出来
 note:使用 Tabor.dll文件并理解命名空间，获取html数据
 
 
-2017/06/08
+# 2017/06/08
 1、了解范围和利用可访问性修饰符
 
 2、枚举类型与switch决策语句得组合使用
@@ -79,12 +79,16 @@ note:使用Enum.Parser匹配输入字符，是否忽略大小写
 3、适当处理异常
 note:Try Catch
 
-2017/06/09
+# 2017/06/09
 
 1、使用 LINQ 筛选和管理数据集合  LinQ to Object
 
 2、添加MyC-SharpTest
 Note:通过阅读C#编程指南进行C#编程练习，今天到达 StringBuilder,在StringFormat类中
+
+# 2017/06/10
+
+1、今天到达LINQ,文本处理块，明天可以从此处开始编辑
 
 
 
