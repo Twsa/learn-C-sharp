@@ -184,8 +184,37 @@ namespace HelloWorld
             //1、查询文本块
             //1）、如何：对某个词在字符串中出现得次数进行计数（LINQ）(C#),
             //演示如何使用LINQ进行简单的文本查询
+            //CountWords testCount = new CountWords();
+            //testCount.CountTest();
 
+            //如何：查询包含一组指定词语的句子（LINQ）(C#),
+            //演示如何在任意边界上拆分文本文件以及如何针对每个部分执行查询
+            //FindSentence sentenceFindTest = new FindSentence();
+            //sentenceFindTest.SentencFind();
 
+            //如何：将 LINQ 查询与正则表达式合并 (C#)
+            //演示如何在 LINQ 查询中使用正则表达式，以便对筛选的查询结果进行复杂的模式匹配。
+
+            //QueryWithRegEx queryWithEegExTest = new QueryWithRegEx();
+
+            //queryWithEegExTest.RegEx();
+
+            //Expression-bodied 成员（C# 编程指南）
+            //Person expression_bodiedTest = new Person("Twsa","Liu");
+            //expression_bodiedTest.DisplsyName();
+            //构造函数中的
+            //Location location = new Location("Twsa Liu");
+            //location.Name = 5.ToString();
+
+            //匿名函数
+            //Delegate delegateTest = new Delegate();
+            //delegateTest.Test();
+
+            //如何：在查询中使用 Lambda 表达式
+            SimpleLambda simpleLambdaTest = new SimpleLambda();
+            simpleLambdaTest.Test();
+
+            Console.ReadLine();
         }
     }
 }

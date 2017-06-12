@@ -41,11 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CountWords.cs" />
+    <Compile Include="LINQ的字符串的是哟使用\CountWords.cs" />
+    <Compile Include="LINQ的字符串的是哟使用\FindSentence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StringFormat.cs" />
-    <Compile Include="TestStringBuilder.cs" />
+    <Compile Include="LINQ的字符串的是哟使用\QueryWithRegEx.cs" />
+    <Compile Include="LINQ的字符串的是哟使用\StringFormat.cs" />
+    <Compile Include="LINQ的字符串的是哟使用\TestStringBuilder.cs" />
+    <Compile Include="匿名函数\Delegate.cs" />
+    <Compile Include="匿名函数\SimpleLambda.cs" />
+    <Compile Include="语句，表达式和运算符\Destroyer.cs" />
+    <Compile Include="语句，表达式和运算符\Location.cs" />
+    <Compile Include="语句，表达式和运算符\Person.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
